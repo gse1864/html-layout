@@ -1,0 +1,41 @@
+#container {
+    position: relative;
+    min-height: 100%;
+}
+
+#header {
+    background-color: gray;
+    height: 133px;
+}
+
+#body {
+    background-color: whitesmoke;
+    height: 590px;
+    padding-bottom: 77px;
+}
+
+#left {
+    background-color: lightgray;
+    float: left;
+    height: 667px;
+    width: 256px;
+}
+
+#right {
+    background-color: lightgray;
+    float: right;
+    height: 667px;
+    width: 256px;
+}
+
+#footer {
+    background-color: black;
+    height: 77px;
+    /*position: absolute;
+    bottom: 0;*/
+    margin-left: 256px;
+    margin-right: 256px;
+    margin-top: -77px;
+}
+
+/* screen size 1280 x 800 */

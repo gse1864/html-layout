@@ -1,0 +1,46 @@
+.container {
+    min-height: 100%;
+    position: relative;
+}
+
+.column {
+    width: 33.33%;
+    height: 800px;
+    display: inline-block;
+}
+
+#blue {
+    background-color: dodgerblue;
+    float: left;
+}
+
+#teal {
+    background-color: teal;
+    
+}
+
+#green {
+    background-color: palegreen;
+    float: right;
+}
+
+.redbox {
+    background-color: red;
+    height: 200px;
+    margin-top: 600px;
+    padding-left: 70px;
+}
+
+p {
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: inherit;
+}
+
+span {
+    vertical-align: middle;
+    display: inline-block;
+    height: 200px;
+    line-height: 150px;
+}

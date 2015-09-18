@@ -1,0 +1,43 @@
+.header {
+    background-color: lightgray;
+    height: 114px;
+    padding-top: 10px;
+}
+
+.logo {
+    background-color: dodgerblue;
+    height: 87%;
+    width: 9%;
+    margin-left: 25px;
+
+}
+
+.white {
+    background-color: white;
+    font-family: sans-serif;
+    color: dimgray;
+    height: 128px;
+    padding-top: 88px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.blue {
+    background-color: dodgerblue;
+    height: 114px;
+}
+
+.teal {
+    background-color: aquamarine;
+    height: 114px;
+}
+
+.green {
+    background-color: palegreen;
+    height: 114px;
+}
+
+.yellow {
+    background-color: lightgoldenrodyellow;
+    height: 114px;
+}
